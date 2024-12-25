@@ -688,7 +688,7 @@ footer .copyright {
 /* =============================================================================================================================*/
 
 #page-header.blog-header {
-  background-image: url("../img/banner/b19.jpg");
+  background-image: url("../img/banner/b19.webp");
 }
 #blog {
   padding: 150px 150px 0px 150px;
@@ -757,7 +757,7 @@ footer .copyright {
 /* =============================================================================================================================*/
 
 #page-header.about-header {
-  background-image: url("../img/about/banner.png");
+  background-image: url("../img/about/banner.webp");
 }
 
 #about-head {
